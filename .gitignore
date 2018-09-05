@@ -11,8 +11,7 @@ local.properties
 .settings/
 .loadpath
 .recommenders
-*._demo
-*._readme.md
+
 # External tool builders
 .externalToolBuilders/
 
