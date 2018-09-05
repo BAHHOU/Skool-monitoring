@@ -11,8 +11,7 @@ local.properties
 .settings/
 .loadpath
 .recommenders
-*._demo
-*._readme.md
+.DS_Store
 # External tool builders
 .externalToolBuilders/
 
@@ -88,7 +87,13 @@ local.properties
 *.zip
 *.tar.gz
 *.rar
-
+*/*.jar
+**/.mvn/*.jar
+**/**/**/maven*.jar
+**/**/**/maven*.properties
+**/**/*.jar
+**/**/**/**/**.jar
+**/.mvn/**/*.jar
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
