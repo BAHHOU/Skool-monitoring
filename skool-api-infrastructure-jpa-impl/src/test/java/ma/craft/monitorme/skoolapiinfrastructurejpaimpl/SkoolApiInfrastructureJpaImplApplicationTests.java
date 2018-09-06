@@ -1,4 +1,4 @@
-package ma.craft.monitorme.accountsapiinfrastructurerestimpl;
+package ma.craft.monitorme.skoolapiinfrastructurejpaimpl;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class AccountsApiInfrastructureRestImplApplicationTests {
+public class SkoolApiInfrastructureJpaImplApplicationTests {
 
 	@Test
 	public void contextLoads() {

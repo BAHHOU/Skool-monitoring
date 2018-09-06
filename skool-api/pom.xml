@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>ma.craft.monitorme</groupId>
-	<artifactId>accounts-api</artifactId>
+	<artifactId>skool-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>accounts-api</name>
+	<name>skool-api</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>

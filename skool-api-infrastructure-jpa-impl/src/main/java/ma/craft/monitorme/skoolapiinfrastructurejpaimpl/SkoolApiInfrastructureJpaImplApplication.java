@@ -1,12 +1,12 @@
-package ma.craft.monitorme.accountsapi;
+package ma.craft.monitorme.skoolapiinfrastructurejpaimpl;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AccountsApiApplication {
+public class SkoolApiInfrastructureJpaImplApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AccountsApiApplication.class, args);
+		SpringApplication.run(SkoolApiInfrastructureJpaImplApplication.class, args);
 	}
 }
