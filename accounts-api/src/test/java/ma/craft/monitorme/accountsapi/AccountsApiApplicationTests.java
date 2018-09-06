@@ -11,6 +11,7 @@ public class AccountsApiApplicationTests {
 
 	@Test
 	public void contextLoads() {
+          return fastest;
 	}
 
 }
