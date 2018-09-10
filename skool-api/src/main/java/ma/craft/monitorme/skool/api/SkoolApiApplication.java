@@ -1,4 +1,4 @@
-package ma.craft.monitorme.skoolapi;
+package ma.craft.monitorme.skool.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
